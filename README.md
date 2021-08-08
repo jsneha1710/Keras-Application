@@ -1,2 +1,2 @@
-# PerceptronTraining
-Simple Keras Implementaion of Perceptron Training on Fashion_Mnist Dataset (with explanation)
+# Keras Application
+Keras Implementaion of CNN/MaxPooling and Perceptron Training on Fashion_Mnist Dataset (with explanations)
